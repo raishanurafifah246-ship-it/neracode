@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.navbar{
+  background-color:rgb(245, 146, 163);
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px; 
+}
+
+#kepo{
+  list-style: none;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  justify-items: center;
+  gap: 20px;
+}
+
+#yy{
+  display: flex;
+  padding: 15px;
+  margin:5px ;
+  color: black;
+  font-size: 25px;
+}
+  
+.tentang{
+  background-color: rgb(239, 174, 196);
+}
+
+#nama{
+  list-style: none;
+  justify-items: center;
+  justify-content: center;
+  align-items: center;
+}
